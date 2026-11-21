@@ -70,21 +70,30 @@ KnowledgeAI transforms static documents into searchable knowledge, helping users
 
 ---
 
+
 ## 📸 Application Screenshots
 
-Add screenshots of your application in this section to showcase the interface.
+### Dashboard
+![KnowledgeAI Dashboard](screenshots/dashboard.png)
 
-Suggested screenshots:
+### Document Management
+![Document Management](screenshots/documents.png)
 
-- Dashboard
-- Knowledge Base Management
-- Document Management
-- AI Chat Interface
-- Semantic Search
-- Admin Dashboard
-- Login & Registration
+### AI Chat Interface
+![AI Chat](screenshots/ai-chat.png)
 
-<!-- Add your application screenshots here when ready. -->
+### Semantic Search
+![Semantic Search](screenshots/semantic-search.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### User Management
+![User Management](screenshots/user-management.png)
+
+### Authentication
+![Login Page](screenshots/login.png)
+
 
 ---
 
@@ -304,7 +313,7 @@ This project was built to explore and implement:
 - LLM-powered applications.
 - Authentication and role-based access control.
 
-## Author
+## 👨‍💻 Author
 
 **Muhammad Idrees Khan**
 
