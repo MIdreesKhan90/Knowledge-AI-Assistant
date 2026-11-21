@@ -18,7 +18,6 @@ const menuItems = [
   { name: "Documents", path: "/documents", icon: FileText },
   { name: "AI Chat", path: "/chat", icon: MessageSquare },
   { name: "Search", path: "/search", icon: Search },
-  { name: "Settings", path: "/settings", icon: Settings },
 ];
 
 export default function Sidebar() {
