@@ -304,16 +304,10 @@ This project was built to explore and implement:
 - LLM-powered applications.
 - Authentication and role-based access control.
 
----
+## Author
 
-## 📌 Project Status
+**Muhammad Idrees Khan**
 
-**Development:** Core application features and testing completed.
+Full-Stack Developer | AI Automation & Solutions Developer
 
-**Deployment:** Not configured yet.
-
----
-
-## 📄 License
-
-No open-source license has been added to this repository yet.
+Built as a portfolio project to demonstrate full-stack development, API integration, database management, authentication, team collaboration, and practical AI integration.
