@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+python-dotenv
+pydantic[email]
+pwdlib[argon2]
+PyJWT
+python-multipart
+slowapi
+google-genai
+PyMuPDF
+python-docx
+pgvector
